@@ -12,7 +12,7 @@
 	<properties>
 		<javaee.version>7.0</javaee.version>
 		<junit.version>3.8.1</junit.version>
-		<springwebmvc.version>4.3.6.RELEASE</springwebmvc.version>
+		<springwebmvc.version>5.2.20.RELEASE</springwebmvc.version>
 	</properties>
 
 	<dependencies>
